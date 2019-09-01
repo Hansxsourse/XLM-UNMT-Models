@@ -5,5 +5,7 @@ UNMT trained models in XLM
 Besides the pytorch model, it include all the meta data such as training log checkpoint evaluation data and so on.(Now there are only en-fr, I still work on training other language and will upload them soon)
 ## https://drive.google.com/open?id=1oZOH6JtgYaIxEfT9GyUm6LQGx0cK-0Oc
 
+## Traing logs & Evaluations
+![avatar](/en-fr.png)
 
 ## Done by Lehan Yang at John Hopcroft Lab in HUST
