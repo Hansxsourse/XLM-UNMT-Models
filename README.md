@@ -7,5 +7,7 @@ Besides the pytorch model, it include all the meta data such as training log che
 
 ## Traing logs & Evaluations
 ![avatar](/en-fr.png)
+###
+![avatar](/De-En.png)
 
 ## Done by Lehan Yang at John Hopcroft Lab in HUST
